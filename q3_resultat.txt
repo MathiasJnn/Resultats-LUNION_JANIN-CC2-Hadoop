@@ -1,0 +1,3 @@
+Taille du fichier tags.csv : 38810332 octets
+Nombre de blocs avec taille par défaut (128 Mo) : 1
+Nombre de blocs avec taille de bloc 64 Mo : 1
