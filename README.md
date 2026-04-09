@@ -11,5 +11,5 @@ Chaque fichier correspond à une question :
 
 Les résultats ont été générés à l’aide de scripts **MapReduce (MRJob)** exécutés sur le fichier `tags.csv`.
 
-Les fichiers étant volumineux, ils sont fournis directement dans ce dépôt et sont référencés dans le compte rendu Markdown demandé pour le rendu.
+Les fichiers étant volumineux, ils sont fournis directement dans ce dépôt et sont référencés dans le compte rendu Markdown demandé pour le rendu. 
 
